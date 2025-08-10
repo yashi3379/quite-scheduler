@@ -1,0 +1,390 @@
+{
+  "top": {
+    "title": "Quite Scheduler",
+    "subtitle": "SNS Content Scheduling Platform",
+    "description": "Efficiently schedule and manage your social media content with our streamlined workflow.",
+    "workflow": {
+      "title": "How it works",
+      "step1": {
+        "title": "Import JSON Content",
+        "description": "Import content created externally in quite-post format"
+      },
+      "step2": {
+        "title": "Select Schedule",
+        "description": "Choose posting date and time from calendar"
+      },
+      "step3": {
+        "title": "Google Calendar Integration",
+        "description": "Get reminders with dedicated URL in your calendar"
+      },
+      "step4": {
+        "title": "Web Push Notifications",
+        "description": "Receive notifications 30min, 10min, and right before posting"
+      },
+      "step5": {
+        "title": "One-Click Copy",
+        "description": "Access content URL and copy with single click"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "multiLanguage": "Multi-language support (English/Japanese)",
+      "multiLanguageDesc": "English and Japanese language support with automatic detection",
+      "platforms": "Multiple platforms (Twitter, Reddit, Threads)",
+      "platformsDesc": "Support for Twitter, Reddit, Threads and more platforms",
+      "scheduling": "Flexible scheduling with timezone support",
+      "schedulingDesc": "Flexible scheduling system with timezone support",
+      "notifications": "Smart notification system",
+      "notificationsDesc": "Intelligent notification system for timely reminders",
+      "integration": "Google Calendar integration",
+      "integrationDesc": "Seamless Google Calendar integration for better workflow"
+    },
+    "buttons": {
+      "getStarted": "Get Started",
+      "downloadSample": "Download Sample JSON",
+      "learnMore": "Learn More",
+      "dashboard": "Dashboard"
+    }
+  },
+  "welcome": {
+    "title": "Welcome to Quite Scheduler",
+    "subtitle": "SNS Content Scheduling Platform",
+    "description": "Efficiently schedule and manage your social media content with our streamlined workflow.",
+    "workflow": {
+      "title": "How it works",
+      "step1": {
+        "title": "Import JSON Content",
+        "description": "Import content created externally in quite-post format"
+      },
+      "step2": {
+        "title": "Select Schedule",
+        "description": "Choose posting date and time from calendar"
+      },
+      "step3": {
+        "title": "Google Calendar Integration",
+        "description": "Get reminders with dedicated URL in your calendar"
+      },
+      "step4": {
+        "title": "Web Push Notifications",
+        "description": "Receive notifications 30min, 10min, and right before posting"
+      },
+      "step5": {
+        "title": "One-Click Copy",
+        "description": "Access content URL and copy with single click"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "multiLanguage": "Multi-language support (English/Japanese)",
+      "multiLanguageDesc": "English and Japanese language support with automatic detection",
+      "platforms": "Multiple platforms (Twitter, Reddit, Threads)",
+      "platformsDesc": "Support for Twitter, Reddit, Threads and more platforms",
+      "scheduling": "Flexible scheduling with timezone support",
+      "schedulingDesc": "Flexible scheduling system with timezone support",
+      "notifications": "Smart notification system",
+      "notificationsDesc": "Intelligent notification system for timely reminders",
+      "integration": "Google Calendar integration",
+      "integrationDesc": "Seamless Google Calendar integration for better workflow"
+    },
+    "buttons": {
+      "getStarted": "Get Started",
+      "downloadSample": "Download Sample JSON",
+      "learnMore": "Learn More",
+      "dashboard": "Dashboard"
+    }
+  },
+  "notifications": {
+    "title": "Notification Settings",
+    "description": "Configure notifications for your scheduled posts",
+    "howItWorks": "How It Works",
+    "requirements": "Requirements",
+    "requirement1": "Modern browser (Chrome, Firefox, Safari)",
+    "requirement2": "Notification permission enabled",
+    "requirement3": "Internet connection",
+    "privacy": "Privacy",
+    "privacyDesc": "Notification settings are stored only in your browser and no personal data is collected.",
+    "calendarNotifications": "Google Calendar Notification Settings",
+    "calendarNotificationsDesc": "Manage notification settings for when scheduled posts are added to Google Calendar.",
+    "notificationSettings": "Notification Settings",
+    "emailNotification": "Email Notification",
+    "popupNotification": "Popup Notification",
+    "popup": "Popup",
+    "email": "Email",
+    "atTime": "At time",
+    "minutesBefore": "{minutes} minutes before",
+    "hoursBefore": "{hours} hours before",
+    "hoursMinutesBefore": "{hours} hours {minutes} minutes before",
+    "minutesShort": " min before",
+    "hourShort": " hour before",
+    "hoursShort": " hours before",
+    "dayShort": " day before",
+    "addCustomNotification": "Add Custom Notification",
+    "testIntegration": "Test Integration",
+    "testing": "Testing...",
+    "testCalendarSuccess": "Google Calendar notification settings test completed. Calendar events will be created with these notification settings when you actually schedule posts.",
+    "testCalendarError": "Calendar integration test failed.",
+    "howItWorks1": "When you schedule a post, a Google Calendar event is automatically created",
+    "howItWorks2": "Notification settings configured here are applied to the calendar event",
+    "howItWorks3": "Email and mobile notifications are delivered according to your Google account notification settings",
+    "howItWorks4": "Calendar events include a dedicated URL for posting",
+    "privacyNote": "Notification settings are stored only in your browser and no personal data is collected.",
+    "calendarIntegrationInfo": "Google Calendar Integration",
+    "whatThisDoes": "What This Feature Does",
+    "directControl": "Directly controls Google Calendar notification settings",
+    "noAppNotifications": "Does not use app-specific notifications",
+    "realTimeSync": "Setting changes are immediately synced to calendar",
+    "googleAccount": "Google Account",
+    "calendarAccess": "Google Calendar access permission",
+    "privacyDescCalendar": "Notification settings are stored directly in Google Calendar, not in the app.",
+    "authenticationRequired": "Authentication is required to change Google Calendar notification settings.",
+    "authenticating": "Authenticating...",
+    "googleAuthSuccess": "Google authentication completed",
+    "googleAuthError": "Google authentication failed",
+    "authRequired": "Please authenticate with Google first",
+    "updating": "Updating...",
+    "updateCalendarSettings": "Update Calendar Settings",
+    "calendarSettingsUpdated": "Google Calendar notification settings have been updated",
+    "calendarSettingsError": "Failed to update calendar settings",
+    "directCalendarControl": "This setting directly controls Google Calendar notification settings",
+    "automaticSync": "Setting changes are immediately synced to Google Calendar"
+  },
+  "import": {
+    "title": "JSON Import",
+    "description": "Import content from quite-post JSON files or paste JSON directly",
+    "importer": {
+      "cardTitle": "Import JSON Content",
+      "cardDescription": "Import content from quite-post JSON files or paste JSON directly",
+      "uploadLabel": "Upload JSON File",
+      "selectedFile": "Selected",
+      "or": "OR",
+      "pasteLabel": "Paste JSON Content",
+      "placeholder": "Paste your JSON content here",
+      "validJson": "Valid JSON",
+      "invalidJson": "Invalid JSON",
+      "warnings": "Warnings",
+      "errors": "Errors",
+      "clear": "Clear",
+      "languages": "Languages",
+      "platforms": "Platforms",
+      "characters": "Characters",
+      "totalCost": "Total Cost",
+      "importing": "Importing...",
+      "importButton": "Import Content for Scheduling",
+      "fileError": "Please select a JSON file (.json)",
+      "fileReadError": "Failed to read file",
+      "validationError": "Validation failed unexpectedly"
+    },
+    "preview": {
+      "cardTitle": "Imported Content Preview",
+      "contentInfo": "Content Information",
+      "title": "Title",
+      "priority": "Priority",
+      "contentId": "Content ID",
+      "cost": "Cost",
+      "selectLanguage": "Select Language",
+      "selectPlatforms": "Select Platforms",
+      "selected": "selected",
+      "platforms": "platforms",
+      "contentPreview": "Content Preview",
+      "noContent": "No content available for",
+      "model": "Model",
+      "tokens": "Tokens",
+      "original": "Original",
+      "readyForScheduling": "Ready for Scheduling",
+      "platformsSelectedIn": " platforms selected in ",
+      "continueToScheduling": "Continue to Scheduling"
+    }
+  },
+  "schedule": {
+    "title": "Schedule Post",
+    "description": "Schedule your imported content for posting"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "View your scheduled posts and manage your content",
+    "noSchedules": "No scheduled posts yet",
+    "noSchedulesDesc": "Start by scheduling your first post",
+    "getStarted": "Schedule a Post",
+    "stats": {
+      "importedContent": "Imported Content",
+      "favorites": "Favorites",
+      "scheduled": "Scheduled",
+      "posted": "Posted"
+    },
+    "sections": {
+      "recentContent": "Recent Content",
+      "upcomingPosts": "Upcoming Posts",
+      "todaysSchedule": "Today's Schedule",
+      "quickActions": "Quick Actions"
+    },
+    "actions": {
+      "viewAll": "View All",
+      "scheduleMore": "Schedule More",
+      "importContent": "Import Content",
+      "viewHistory": "View History",
+      "schedulePost": "Schedule Post"
+    },
+    "messages": {
+      "noContentYet": "No content imported yet",
+      "importFirstContent": "Import your first content to get started",
+      "noUpcomingPosts": "No upcoming posts scheduled",
+      "scheduleFirstPost": "Schedule your first post to get started"
+    },
+    "status": {
+      "scheduled": "Scheduled",
+      "posted": "Posted",
+      "failed": "Failed",
+      "cancelled": "Cancelled"
+    }
+  },
+  "history": {
+    "title": "History",
+    "description": "View your scheduled post history",
+    "noHistory": "No History Yet",
+    "noHistoryDesc": "Your scheduled posts will appear here",
+    "scheduleNew": "Schedule New Post",
+    "completeHistory": "Complete History",
+    "export": "Export",
+    "items": "items",
+    "search": "Search...",
+    "allTypes": "All Types",
+    "content": "Content",
+    "scheduled": "Scheduled",
+    "allPlatforms": "All Platforms",
+    "allLanguages": "All Languages",
+    "allStatus": "All Status",
+    "posted": "Posted",
+    "failed": "Failed",
+    "cancelled": "Cancelled",
+    "favorites": "Favorites only",
+    "noItemsFound": "No items found matching your filters.",
+    "scheduledFor": "Scheduled for",
+    "imported": "Imported",
+    "languagesFor": "language(s) for",
+    "platformsCount": "platform(s)",
+    "scheduledTime": "Scheduled Time:",
+    "confirmDelete": "Confirm Delete",
+    "deleteConfirmMessage": "Are you sure you want to delete this {type}? This action cannot be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "close": "Close",
+    "contentPreview": "Content Preview",
+    "status": "Status",
+    "platforms": "Platforms",
+    "language": "Language",
+    "allTime": "All Time",
+    "pastWeek": "Past Week",
+    "pastMonth": "Past Month",
+    "pastYear": "Past Year",
+    "chars": "chars"
+  },
+  "create": {
+    "title": "Create Post",
+    "description": "Select SNS platform and write text directly to schedule posts",
+    "selectPlatform": "Select Platform",
+    "createPost": "Create Post",
+    "postTitle": "Post Title",
+    "titlePlaceholder": "Enter post title...",
+    "postContent": "Post Content",
+    "twitterPlaceholder": "What's happening?",
+    "redditPlaceholder": "Share your thoughts...",
+    "threadsPlaceholder": "Start a thread...",
+    "scheduledDate": "Scheduled Date",
+    "scheduledTime": "Scheduled Time",
+    "tags": "Tags",
+    "optional": "optional",
+    "tagsPlaceholder": "Enter tags separated by commas (e.g., marketing, sns, schedule)",
+    "maxCharacters": "Max {count} characters",
+    "nearCharacterLimit": "Approaching character limit",
+    "preview": "Preview",
+    "schedulePost": "Schedule Post",
+    "scheduling": "Scheduling...",
+    "cancel": "Cancel",
+    "fillAllFields": "Please fill all required fields",
+    "postScheduled": "Post has been scheduled successfully!",
+    "schedulingError": "Failed to schedule post"
+  },
+  "navigation": {
+    "tagline": "SNS Content Scheduler",
+    "dashboard": "Dashboard",
+    "dashboardDesc": "Overview and schedule monitoring",
+    "create": "Create",
+    "createDesc": "Create posts directly",
+    "import": "Import",
+    "importDesc": "Import content",
+    "history": "History",
+    "historyDesc": "View post history",
+    "notifications": "Notifications",
+    "notificationsDesc": "Calendar notification settings",
+    "contact": "Contact",
+    "contactDesc": "Support and contact"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to reach out with any questions or suggestions about Quite Scheduler",
+    "subtitle": "Feel free to reach out with any questions or suggestions",
+    "twitter": {
+      "description": "Fastest response time",
+      "button": "Message @quite_scheduler"
+    },
+    "reddit": {
+      "description": "For detailed discussions",
+      "button": "DM u/quite_scheduler"
+    },
+    "github": {
+      "description": "Bug reports and feature requests",
+      "button": "Open Issues"
+    },
+    "email": {
+      "title": "Email",
+      "description": "For official inquiries",
+      "button": "Send Email"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "pricing": {
+        "question": "Is there a usage fee?",
+        "answer": "Currently, all basic features are available for free. This includes Google Calendar integration and all scheduling features."
+      },
+      "calendar": {
+        "question": "Do I need to set up Google Calendar integration?",
+        "answer": "Google account authentication is required on first use. After authentication, calendar events are automatically created with your configured notifications."
+      },
+      "features": {
+        "question": "Can I request new features?",
+        "answer": "Yes! Feel free to suggest features via Twitter, Reddit, or GitHub above. We value feedback from our users."
+      },
+      "data": {
+        "question": "Where is my data stored?",
+        "answer": "Schedule information is securely stored in your browser (localStorage). No data is sent to external servers, protecting your privacy."
+      },
+      "platforms": {
+        "question": "Which social media platforms are supported?",
+        "answer": "Currently supports Twitter(X), Reddit, and Threads. We plan to add more platforms in the future."
+      }
+    },
+    "disclaimer": {
+      "title": "Terms of Use",
+      "content": "Please use scheduled content in accordance with each platform's terms of service. This service only provides schedule management - actual posting is done by users themselves. We are not responsible for posted content."
+    },
+    "support": {
+      "title": "Support Information",
+      "hours": "Support Hours: Weekdays 9:00-18:00 (JST)",
+      "language": "Languages: Japanese, English",
+      "response": "Usually respond within 24 hours"
+    }
+  },
+  "common": {
+    "language": "Language",
+    "english": "English",
+    "japanese": "Japanese",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "back": "Back",
+    "unsavedChangesWarning": "Imported data or input data will be deleted. Are you sure you want to leave?",
+    "confirmNavigation": "Confirm Navigation",
+    "stay": "Stay on this page",
+    "leave": "Leave"
+  }
+}

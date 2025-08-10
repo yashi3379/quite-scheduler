@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "created_at": "2025-07-04T05:31:31.663Z",
+  "content_id": "4f11d544-d54c-4f4b-a441-cdc7b2fb041a",
+  "metadata": {
+    "title": "Next.js アプリ開発",
+    "category": "generated_content",
+    "tags": [
+      "Next.js",
+      "アプリ開発"
+    ],
+    "priority": "normal"
+  },
+  "languages": {
+    "japanese": {
+      "platforms": [
+        {
+          "platform": "twitter",
+          "content": "INFP特化のAIエージェント「infpエージェント」を開発しました！Next.jsを使ってアプリを構築しました。INFPの皆様の個性をサポートし、より豊かな毎日を過ごせるよう、今後も機能拡充に努めます。ぜひお試しください！ #INFP #AI #Nextjs #アプリ開発 #INFPeagent",
+          "metadata": {
+            "tokens": 125,
+            "cost": 0.000163,
+            "model": "gemini-2.0-flash-lite",
+            "originalLength": 149,
+            "finalLength": 149
+          }
+        }
+      ]
+    }
+  },
+  "export_settings": {
+    "created_by": "sns_content_creator",
+    "compatible_apps": [
+      "post_scheduler_app"
+    ],
+    "expiry_date": "2025-08-03T05:31:38.346Z"
+  }
+}

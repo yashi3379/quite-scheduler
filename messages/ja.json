@@ -1,0 +1,390 @@
+{
+  "top": {
+    "title": "Quite Scheduler",
+    "subtitle": "SNSコンテンツ スケジューリング プラットフォーム",
+    "description": "効率的なワークフローで、ソーシャルメディアコンテンツのスケジューリングと管理を簡単に。",
+    "workflow": {
+      "title": "使い方",
+      "step1": {
+        "title": "JSONコンテンツをインポート",
+        "description": "外部で作成されたquite-post形式のコンテンツをインポート"
+      },
+      "step2": {
+        "title": "投稿日時を選択",
+        "description": "カレンダーから投稿日時を選択"
+      },
+      "step3": {
+        "title": "Google Calendar連携",
+        "description": "専用URLを含むリマインダーをカレンダーに登録"
+      },
+      "step4": {
+        "title": "Web Push通知",
+        "description": "30分前・10分前・直前に通知を受信"
+      },
+      "step5": {
+        "title": "ワンクリックコピー",
+        "description": "コンテンツURLにアクセスしてワンクリックでコピー"
+      }
+    },
+    "features": {
+      "title": "主な機能",
+      "multiLanguage": "多言語対応（英語・日本語）",
+      "multiLanguageDesc": "IPアドレスベースの自動言語検出により英語と日本語をサポート",
+      "platforms": "複数プラットフォーム対応（Twitter、Reddit、Threads）",
+      "platformsDesc": "Twitter、Reddit、Threadsなどの複数プラットフォームに対応",
+      "scheduling": "タイムゾーン対応の柔軟なスケジューリング",
+      "schedulingDesc": "タイムゾーンに対応した柔軟なスケジューリングシステム",
+      "notifications": "スマート通知システム",
+      "notificationsDesc": "タイムリーなリマインダーのためのインテリジェント通知システム",
+      "integration": "Google Calendar連携",
+      "integrationDesc": "より良いワークフローのためのシームレスなGoogle Calendar連携"
+    },
+    "buttons": {
+      "getStarted": "はじめる",
+      "downloadSample": "サンプルJSONをダウンロード",
+      "learnMore": "詳しく見る",
+      "dashboard": "ダッシュボード"
+    }
+  },
+  "welcome": {
+    "title": "Quite Scheduler へようこそ",
+    "subtitle": "SNSコンテンツ スケジューリング プラットフォーム",
+    "description": "効率的なワークフローで、ソーシャルメディアコンテンツのスケジューリングと管理を簡単に。",
+    "workflow": {
+      "title": "使い方",
+      "step1": {
+        "title": "JSONコンテンツをインポート",
+        "description": "外部で作成されたquite-post形式のコンテンツをインポート"
+      },
+      "step2": {
+        "title": "投稿日時を選択",
+        "description": "カレンダーから投稿日時を選択"
+      },
+      "step3": {
+        "title": "Google Calendar連携",
+        "description": "専用URLを含むリマインダーをカレンダーに登録"
+      },
+      "step4": {
+        "title": "Web Push通知",
+        "description": "30分前・10分前・直前に通知を受信"
+      },
+      "step5": {
+        "title": "ワンクリックコピー",
+        "description": "コンテンツURLにアクセスしてワンクリックでコピー"
+      }
+    },
+    "features": {
+      "title": "主な機能",
+      "multiLanguage": "多言語対応（英語・日本語）",
+      "multiLanguageDesc": "IPアドレスベースの自動言語検出により英語と日本語をサポート",
+      "platforms": "複数プラットフォーム対応（Twitter、Reddit、Threads）",
+      "platformsDesc": "Twitter、Reddit、Threadsなどの複数プラットフォームに対応",
+      "scheduling": "タイムゾーン対応の柔軟なスケジューリング",
+      "schedulingDesc": "タイムゾーンに対応した柔軟なスケジューリングシステム",
+      "notifications": "スマート通知システム",
+      "notificationsDesc": "タイムリーなリマインダーのためのインテリジェント通知システム",
+      "integration": "Google Calendar連携",
+      "integrationDesc": "より良いワークフローのためのシームレスなGoogle Calendar連携"
+    },
+    "buttons": {
+      "getStarted": "はじめる",
+      "downloadSample": "サンプルJSONをダウンロード",
+      "learnMore": "詳しく見る",
+      "dashboard": "ダッシュボード"
+    }
+  },
+  "notifications": {
+    "title": "通知設定",
+    "description": "スケジュールされた投稿の通知を設定します",
+    "howItWorks": "仕組みについて",
+    "requirements": "要件",
+    "requirement1": "モダンブラウザ（Chrome、Firefox、Safari）",
+    "requirement2": "通知の許可設定",
+    "requirement3": "インターネット接続",
+    "privacy": "プライバシー",
+    "privacyDesc": "通知設定はお使いのブラウザにのみ保存され、個人情報は収集されません。",
+    "calendarNotifications": "Googleカレンダー通知設定",
+    "calendarNotificationsDesc": "スケジュールされた投稿がGoogleカレンダーに追加される際の通知設定を管理します。",
+    "notificationSettings": "通知設定",
+    "emailNotification": "メール通知",
+    "popupNotification": "ポップアップ通知",
+    "popup": "ポップアップ",
+    "email": "メール",
+    "atTime": "時刻通り",
+    "minutesBefore": "{minutes}分前",
+    "hoursBefore": "{hours}時間前",
+    "hoursMinutesBefore": "{hours}時間{minutes}分前",
+    "minutesShort": "分前",
+    "hourShort": "時間前",
+    "hoursShort": "時間前",
+    "dayShort": "日前",
+    "addCustomNotification": "カスタム通知を追加",
+    "testIntegration": "連携テスト",
+    "testing": "テスト中...",
+    "testCalendarSuccess": "Googleカレンダー通知設定のテストが完了しました。実際のスケジュール時にカレンダーイベントが作成され、設定した通知が適用されます。",
+    "testCalendarError": "カレンダー連携のテストに失敗しました。",
+    "howItWorks1": "投稿をスケジュールすると、Googleカレンダーにイベントが自動作成されます",
+    "howItWorks2": "ここで設定した通知がカレンダーイベントに適用されます",
+    "howItWorks3": "Googleアカウントの通知設定に従って、メールやモバイル通知が届きます",
+    "howItWorks4": "カレンダーイベントには投稿用の専用URLが含まれます",
+    "privacyNote": "通知設定はお使いのブラウザにのみ保存され、個人情報は収集されません。",
+    "calendarIntegrationInfo": "Googleカレンダー連携について",
+    "whatThisDoes": "この機能について",
+    "directControl": "Googleカレンダーの通知設定を直接制御します",
+    "noAppNotifications": "アプリ独自の通知は使用しません",
+    "realTimeSync": "設定変更は即座にカレンダーに反映されます",
+    "googleAccount": "Googleアカウント",
+    "calendarAccess": "Googleカレンダーへのアクセス許可",
+    "privacyDescCalendar": "通知設定はGoogleカレンダーに直接保存され、アプリには保存されません。",
+    "authenticationRequired": "Googleカレンダーの通知設定を変更するには認証が必要です。",
+    "authenticating": "認証中...",
+    "googleAuthSuccess": "Google認証が完了しました",
+    "googleAuthError": "Google認証に失敗しました",
+    "authRequired": "先にGoogle認証を行ってください",
+    "updating": "更新中...",
+    "updateCalendarSettings": "カレンダー設定を更新",
+    "calendarSettingsUpdated": "Googleカレンダーの通知設定を更新しました",
+    "calendarSettingsError": "カレンダー設定の更新に失敗しました",
+    "directCalendarControl": "この設定はGoogleカレンダーの通知設定を直接制御します",
+    "automaticSync": "設定変更は即座にGoogleカレンダーに同期されます"
+  },
+  "import": {
+    "title": "JSONインポート",
+    "description": "quite-post JSONファイルをインポートするか、JSONを直接貼り付けてください",
+    "importer": {
+      "cardTitle": "JSONコンテンツをインポート",
+      "cardDescription": "quite-post JSONファイルからコンテンツをインポートするか、JSONを直接貼り付けてください",
+      "uploadLabel": "JSONファイルをアップロード",
+      "selectedFile": "選択されたファイル",
+      "or": "または",
+      "pasteLabel": "JSONコンテンツを貼り付け",
+      "placeholder": "JSONコンテンツを貼り付けてください",
+      "validJson": "有効なJSON",
+      "invalidJson": "無効なJSON",
+      "warnings": "警告",
+      "errors": "エラー",
+      "clear": "クリア",
+      "languages": "言語",
+      "platforms": "プラットフォーム",
+      "characters": "文字数",
+      "totalCost": "総コスト",
+      "importing": "インポート中...",
+      "importButton": "スケジュール用にコンテンツをインポート",
+      "fileError": "JSONファイル（.json）を選択してください",
+      "fileReadError": "ファイルの読み込みに失敗しました",
+      "validationError": "予期しない検証エラーが発生しました"
+    },
+    "preview": {
+      "cardTitle": "インポートしたコンテンツのプレビュー",
+      "contentInfo": "コンテンツ情報",
+      "title": "タイトル",
+      "priority": "優先度",
+      "contentId": "コンテンツID",
+      "cost": "コスト",
+      "selectLanguage": "言語を選択",
+      "selectPlatforms": "プラットフォームを選択",
+      "selected": "選択済み",
+      "platforms": "プラットフォーム",
+      "contentPreview": "コンテンツプレビュー",
+      "noContent": "コンテンツがありません",
+      "model": "モデル",
+      "tokens": "トークン",
+      "original": "オリジナル",
+      "readyForScheduling": "スケジュール準備完了",
+      "platformsSelectedIn": "個のプラットフォームが選択されました",
+      "continueToScheduling": "スケジュール設定に進む"
+    }
+  },
+  "schedule": {
+    "title": "投稿をスケジュール",
+    "description": "インポートしたコンテンツの投稿スケジュールを設定します"
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "description": "スケジュールされた投稿を確認し、コンテンツを管理します",
+    "noSchedules": "スケジュールされた投稿はありません",
+    "noSchedulesDesc": "投稿をスケジュールして管理を始めましょう",
+    "getStarted": "投稿をスケジュール",
+    "stats": {
+      "importedContent": "インポートしたコンテンツ",
+      "favorites": "お気に入り",
+      "scheduled": "スケジュール済み",
+      "posted": "投稿済み"
+    },
+    "sections": {
+      "recentContent": "最近のコンテンツ",
+      "upcomingPosts": "近日予定の投稿",
+      "todaysSchedule": "今日の予定",
+      "quickActions": "クイックアクション"
+    },
+    "actions": {
+      "viewAll": "すべて表示",
+      "scheduleMore": "さらにスケジュール",
+      "importContent": "コンテンツをインポート",
+      "viewHistory": "履歴を表示",
+      "schedulePost": "投稿をスケジュール"
+    },
+    "messages": {
+      "noContentYet": "まだコンテンツがインポートされていません",
+      "importFirstContent": "最初のコンテンツをインポートして始めましょう",
+      "noUpcomingPosts": "スケジュールされた投稿がありません",
+      "scheduleFirstPost": "最初の投稿をスケジュールして始めましょう"
+    },
+    "status": {
+      "scheduled": "スケジュール済み",
+      "posted": "投稿済み",
+      "failed": "失敗",
+      "cancelled": "キャンセル"
+    }
+  },
+  "history": {
+    "title": "履歴",
+    "description": "過去にスケジュールした投稿の履歴を確認できます",
+    "noHistory": "履歴はまだありません",
+    "noHistoryDesc": "スケジュールした投稿がここに表示されます",
+    "scheduleNew": "新しい投稿をスケジュール",
+    "completeHistory": "完全な履歴",
+    "export": "エクスポート",
+    "items": "件",
+    "search": "検索...",
+    "allTypes": "全タイプ",
+    "content": "コンテンツ",
+    "scheduled": "スケジュール済み",
+    "allPlatforms": "全プラットフォーム",
+    "allLanguages": "全言語",
+    "allStatus": "全ステータス",
+    "posted": "投稿済み",
+    "failed": "失敗",
+    "cancelled": "キャンセル",
+    "favorites": "お気に入りのみ",
+    "noItemsFound": "条件に一致するアイテムがありません。",
+    "scheduledFor": "スケジュール対象:",
+    "imported": "インポート:",
+    "languagesFor": "言語:",
+    "platformsCount": "プラットフォーム",
+    "scheduledTime": "スケジュール時刻:",
+    "confirmDelete": "削除の確認",
+    "deleteConfirmMessage": "この{type}を削除してもよろしいですか？この操作は元に戻せません。",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "close": "閉じる",
+    "contentPreview": "コンテンツプレビュー",
+    "status": "ステータス",
+    "platforms": "プラットフォーム",
+    "language": "言語",
+    "allTime": "全期間",
+    "pastWeek": "過去1週間",
+    "pastMonth": "過去1ヶ月",
+    "pastYear": "過去1年",
+    "chars": "文字"
+  },
+  "create": {
+    "title": "投稿作成",
+    "description": "SNSプラットフォームを選択して直接文章を入力し、スケジュールを設定できます",
+    "selectPlatform": "プラットフォーム選択",
+    "createPost": "投稿作成",
+    "postTitle": "投稿タイトル",
+    "titlePlaceholder": "投稿のタイトルを入力...",
+    "postContent": "投稿内容",
+    "twitterPlaceholder": "いまどうしてる？",
+    "redditPlaceholder": "あなたの考えを共有しましょう...",
+    "threadsPlaceholder": "スレッドを開始...",
+    "scheduledDate": "投稿予定日",
+    "scheduledTime": "投稿予定時刻",
+    "tags": "タグ",
+    "optional": "任意",
+    "tagsPlaceholder": "タグをカンマ区切りで入力 (例: マーケティング, SNS, スケジュール)",
+    "maxCharacters": "最大 {count} 文字",
+    "nearCharacterLimit": "文字数制限に近づいています",
+    "preview": "プレビュー",
+    "schedulePost": "投稿をスケジュール",
+    "scheduling": "スケジュール中...",
+    "cancel": "キャンセル",
+    "fillAllFields": "すべてのフィールドを入力してください",
+    "postScheduled": "投稿がスケジュールされました！",
+    "schedulingError": "スケジューリングに失敗しました"
+  },
+  "navigation": {
+    "tagline": "SNS投稿スケジューラー",
+    "dashboard": "ダッシュボード",
+    "dashboardDesc": "概要とスケジュール確認",
+    "create": "投稿作成",
+    "createDesc": "直接投稿を作成",
+    "import": "インポート",
+    "importDesc": "コンテンツをインポート",
+    "history": "履歴",
+    "historyDesc": "投稿履歴を確認",
+    "notifications": "通知設定",
+    "notificationsDesc": "カレンダー通知設定",
+    "contact": "お問い合わせ",
+    "contactDesc": "サポートとお問い合わせ"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "description": "Quite Schedulerに関するご質問やご要望はこちらからお気軽にお声かけください",
+    "subtitle": "ご質問やご要望がございましたら、お気軽にお声かけください",
+    "twitter": {
+      "description": "最も迅速にお返事できます",
+      "button": "@quite_scheduler にメッセージ"
+    },
+    "reddit": {
+      "description": "詳細なディスカッションはこちら",
+      "button": "u/quite_scheduler にDM"
+    },
+    "github": {
+      "description": "バグレポートや機能リクエストはこちら",
+      "button": "Issues を開く"
+    },
+    "email": {
+      "title": "メール",
+      "description": "公式なお問い合わせはこちら",
+      "button": "メールを送信"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "pricing": {
+        "question": "利用料金はかかりますか？",
+        "answer": "現在は基本機能を無料でご利用いただけます。Googleカレンダー連携など、すべての機能が無料でお使いいただけます。"
+      },
+      "calendar": {
+        "question": "Googleカレンダー連携の設定は必要ですか？",
+        "answer": "初回利用時にGoogleアカウントでの認証が必要です。認証後は自動的にカレンダーイベントが作成され、設定した通知が届きます。"
+      },
+      "features": {
+        "question": "新機能のリクエストはできますか？",
+        "answer": "はい！上記のTwitter、Reddit、またはGitHubからお気軽にご提案ください。ユーザーの皆様のフィードバックを大切にしています。"
+      },
+      "data": {
+        "question": "データはどこに保存されますか？",
+        "answer": "スケジュール情報はお使いのブラウザ内（localStorage）に安全に保存されます。外部サーバーには送信されないため、プライバシーが保護されます。"
+      },
+      "platforms": {
+        "question": "対応しているSNSプラットフォームは？",
+        "answer": "現在Twitter(X)、Reddit、Threadsに対応しています。今後さらに多くのプラットフォームに対応予定です。"
+      }
+    },
+    "disclaimer": {
+      "title": "ご利用にあたって",
+      "content": "スケジュールされたコンテンツは各プラットフォームの利用規約に従ってご利用ください。また、本サービスはスケジュール管理のみを行い、実際の投稿はユーザー様ご自身で行っていただきます。投稿内容について当サービスは責任を負いかねます。"
+    },
+    "support": {
+      "title": "サポート情報",
+      "hours": "サポート対応時間: 平日 9:00-18:00 (JST)",
+      "language": "対応言語: 日本語、英語",
+      "response": "通常24時間以内にお返事いたします"
+    }
+  },
+  "common": {
+    "language": "言語",
+    "english": "English",
+    "japanese": "日本語",
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "success": "成功！",
+    "back": "戻る",
+    "unsavedChangesWarning": "インポートしたデータまたは入力中のデータが削除されます。本当に離れますか？",
+    "confirmNavigation": "画面を離れる確認",
+    "stay": "このページに留まる",
+    "leave": "離れる"
+  }
+}

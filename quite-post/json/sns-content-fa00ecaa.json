@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "created_at": "2025-07-04T08:59:03.312Z",
+  "content_id": "fa00ecaa-77b4-4746-af9a-2cec96590dd6",
+  "metadata": {
+    "title": "Next.js アプリ開発",
+    "category": "generated_content",
+    "tags": [
+      "Next.js",
+      "アプリ開発"
+    ],
+    "priority": "normal"
+  },
+  "languages": {
+    "english": {
+      "platforms": [
+        {
+          "platform": "reddit",
+          "content": "TITLE: Announcing \"INFP Agent\": An AI Agent Tailored for INFP Developers, Built with Next.js\n\nCONTENT:\n\nHello Reddit,\n\nI'm excited to announce the completion of \"INFP Agent,\" an AI agent specifically designed and optimized for the needs of INFP developers. This project was built using Next.js and represents a focused attempt to create a tool that resonates with the unique cognitive and emotional landscape of INFPs.\n\nThe core concept behind \"INFP Agent\" is to provide a development companion that understands and caters to the INFP personality type. This includes features designed to:\n\n*   **Facilitate Creative Flow:** By minimizing distractions and providing gentle prompts for ideation, the agent helps maintain focus during coding sessions.\n*   **Foster Empathy and Understanding:** The AI is trained to respond with empathy and patience, providing tailored support for common INFP challenges such as perfectionism and self-doubt.\n*   **Encourage Exploration and Reflection:** \"INFP Agent\" encourages exploration of different coding approaches and provides opportunities for reflective analysis of the development process.\n*   **Assist with Project Prioritization and Goal Setting:** The agent provides gentle guidance on structuring projects and breaking down tasks into manageable steps, aiding in overcoming procrastination.\n\nThe application is built with Next.js, leveraging its powerful features for speed, efficiency, and scalability. I'm eager to gather feedback and iterate on this project. I would love to hear from fellow INFPs and developers about their experiences with AI tools and what features they find most helpful.\n\nI'm looking forward to sharing more details about the underlying technologies and the development process in future posts. Stay tuned for updates, and feel free to ask any questions!\n\n#NextJS #AI #INFP #SoftwareDevelopment #PersonalizedAI #WebDevelopment #MentalHealth #Programming #DeveloperTools #NextJSAppDev #INFPagent\nSUBREDDIT: r/webdev",
+          "metadata": {
+            "tokens": 652,
+            "cost": 0.0011489999999999998,
+            "model": "gemini-2.0-flash-lite",
+            "originalLength": 1984,
+            "finalLength": 1984
+          }
+        },
+        {
+          "platform": "twitter",
+          "content": "Announcing the \"INFP Agent,\" an AI agent specifically designed for INFPs! Built using Next.js. Explore its capabilities! #INFP #AI #NextJS #AppDevelopment #Software",
+          "metadata": {
+            "tokens": 187,
+            "cost": 0.00022899999999999998,
+            "model": "gemini-2.0-flash-lite",
+            "originalLength": 164,
+            "finalLength": 164
+          }
+        }
+      ]
+    },
+    "japanese": {
+      "platforms": [
+        {
+          "platform": "reddit",
+          "content": "TITLE: INFP特化AIエージェント「infpエージェント」をNext.jsで開発しました！\n\nCONTENT:\n\n皆様、こんにちは！ Next.js を用いて開発した、INFPの皆様に特化したAIエージェント「infpエージェント」をご紹介させてください。\n\n「infpエージェント」は、INFPの皆様が抱える特有の課題、例えば、自己理解の深化、創造性の促進、人間関係における悩みなど、様々な側面をサポートすることを目指して開発されました。\n\n具体的には、以下のような機能を提供しています。\n\n*   **自己分析と内省のサポート:** INFP特有の価値観や感情に寄り添い、自己理解を深めるための質問や対話を提供します。\n*   **創造性の刺激:** アイデア出しや創作活動のヒント、インスピレーションを提供します。\n*   **人間関係の悩み相談:** 他者とのコミュニケーションにおける悩みに対して、INFPの視点から共感し、建設的なアドバイスを提案します。\n*   **感情の整理:** 複雑な感情を言語化し、感情的なバランスを取り戻すサポートをします。\n\n開発にはNext.jsを使用しており、高速なパフォーマンスと洗練されたユーザーインターフェースを実現しました。現在、β版として公開しており、皆様からのフィードバックを積極的に受け付けております。\n\nもしよろしければ、ぜひ一度お試しいただき、率直なご意見をお聞かせください！ 詳細は近日中に公開する予定です。\n\n#INFP #AI #NextJS #Web開発 #自己分析 #メンタルヘルス #創造性 #開発報告 #beta #INFPエージェント\n\nSUBREDDIT: r/INFP",
+          "metadata": {
+            "tokens": 277,
+            "cost": 0.00046,
+            "model": "gemini-2.0-flash-lite",
+            "originalLength": 730,
+            "finalLength": 730
+          }
+        },
+        {
+          "platform": "twitter",
+          "content": "INFPの皆様へ朗報です！INFP特化のAIエージェント「infpエージェント」を開発しました。Next.jsアプリ開発を通じて実現しました。皆様の個性を最大限に活かせるよう、サポートいたします。ぜひお試しください！ #INFP #AI #Nextjs #アプリ開発 #INFPEエージェント",
+          "metadata": {
+            "tokens": 124,
+            "cost": 0.000161,
+            "model": "gemini-2.0-flash-lite",
+            "originalLength": 146,
+            "finalLength": 146
+          }
+        }
+      ]
+    }
+  },
+  "export_settings": {
+    "created_by": "sns_content_creator",
+    "compatible_apps": [
+      "post_scheduler_app"
+    ],
+    "expiry_date": "2025-08-03T09:00:39.618Z"
+  }
+}
